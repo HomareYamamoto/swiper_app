@@ -22,3 +22,22 @@
   --swiper-navigation-color: #ffffff;
   --swiper-pagination-color: #ffffff;
 }
+
+
+h1 {
+  text-align: center;
+  margin: 50px 0;
+}
+.image-box {
+  height: 300px;
+  width: 600px;
+  margin: 0 auto 50px;
+}
+#back {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+#back img {
+  width: 50px;
+}
